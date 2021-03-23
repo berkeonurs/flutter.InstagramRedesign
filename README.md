@@ -3,4 +3,6 @@
 Instagram Redesign with Flutter
 
 ## Getting Started
-![alt text](https://github.com/berkeonurs/flutter.InstagramRedesign/blob/master/example/example.png?raw=true)
+<p align="center">
+  <img width="540" height="1140" src="https://github.com/berkeonurs/flutter.InstagramRedesign/blob/master/example/example.png">
+</p>
