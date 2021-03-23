@@ -1,4 +1,4 @@
-# instagramre
+# berkeonurs/flutter.InstagramRedesign
 
 A new Flutter project.
 
